@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kartikey Thakur  <br>🎓 I’m currently a student passionate about AI & Machine Learning  <br>💻 I’m working on Python and ML-based projects  <br>📚 I’m learning Data Science and Deep Learning  <br>🔍 I’m looking for internship and growth opportunities  <br>⚡ I enjoy solving real-world problems using technology
+👋 Hi, I’m Kartike Singh  <br>🎓 I’m currently a student passionate about AI & Machine Learning  <br>💻 I’m working on Python and ML-based projects  <br>📚 I’m learning Data Science and Deep Learning  <br>🔍 I’m looking for internship and growth opportunities  <br>⚡ I enjoy solving real-world problems using technology
 
 
 ## 🌐 Socials:
