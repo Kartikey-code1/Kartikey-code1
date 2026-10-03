@@ -10,9 +10,6 @@ I’m a **Data Analyst** focused on turning raw data into meaningful insights, i
 * 📈 Building interactive dashboards using **Power BI & Tableau**
 * 🧮 Strong interest in **Business Analytics & Customer Analytics**
 * 🔍 Comfortable working with large datasets and finding actionable patterns
-* 🚀 Currently looking for **Data Analyst / Business Analyst internship & entry-level opportunities**
-
-> **I turn raw data into clear insights and better decisions.**
 
 
 ## 💻 Data Analytics Tech Stack
@@ -42,27 +39,6 @@ I’m a **Data Analyst** focused on turning raw data into meaningful insights, i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-## 🌐 Connect With Me
-
-**LinkedIn:**
-https://www.linkedin.com/in/kartikey-singh-523848329/
-
-**GitHub:**
-https://github.com/Kartikey-code1
-
-**Email:**
-[kartikeysinghpbh61@gmail.com](mailto:kartikeysinghpbh61@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kartikey-code1\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-code1\&theme=dark\&hide_border=true)
-
----
 
 ### 💡 Data → Analysis → Insights → Decisions
 
