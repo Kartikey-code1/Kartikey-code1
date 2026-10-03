@@ -1,12 +1,238 @@
-# 💫 About Me:
-👋 Hi, I’m Kartike Singh  <br>🎓 I’m currently a student passionate about AI & Machine Learning  <br>💻 I’m working on Python and ML-based projects  <br>📚 I’m learning Data Science and Deep Learning  <br>🔍 I’m looking for internship and growth opportunities  <br>⚡ I enjoy solving real-world problems using technology
+# 👋 Hi, I'm Kartikey Singh
 
+### 📊 Data Analyst | SQL • Python • Power BI • Excel • Tableau
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikeythakur._1302) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kartikey singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kartike singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeysinghpbh61@gmail.com) 
+I’m a **Data Analyst** focused on turning raw data into meaningful insights, interactive dashboards, and data-driven business decisions.
 
-# 💻 Tech Stack:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+* 🎓 B.Tech Computer Science & Engineering student
+* 📊 Experienced in **Data Cleaning, EDA, Reporting & Dashboard Development**
+* 🐍 Working with **Python, Pandas, NumPy & SQL**
+* 📈 Building interactive dashboards using **Power BI & Tableau**
+* 🧮 Strong interest in **Business Analytics & Customer Analytics**
+* 🔍 Comfortable working with large datasets and finding actionable patterns
+* 🚀 Currently looking for **Data Analyst / Business Analyst internship & entry-level opportunities**
+
+> **I turn raw data into clear insights and better decisions.**
+
+---
+
+## 🧠 What I Do
+
+```text
+RAW DATA
+    ↓
+DATA CLEANING
+    ↓
+EXPLORATORY DATA ANALYSIS
+    ↓
+SQL / PYTHON ANALYSIS
+    ↓
+DASHBOARDS & REPORTING
+    ↓
+BUSINESS INSIGHTS
+    ↓
+DATA-DRIVEN DECISIONS
+```
+
+---
+
+## 💻 Data Analytics Tech Stack
+
+### 🐍 Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
+
+### 📊 Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🛠️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📈 Core Analytics Skills
+
+| Area                   | Skills                                                      |
+| ---------------------- | ----------------------------------------------------------- |
+| **Data Analysis**      | Python, SQL, Pandas, NumPy, EDA                             |
+| **Data Cleaning**      | Missing Values, Duplicates, Data Validation, Transformation |
+| **SQL**                | Joins, Aggregations, Subqueries, CTEs, Window Functions     |
+| **Visualization**      | Power BI, Tableau, Excel, Matplotlib                        |
+| **Dashboards**         | KPI Tracking, Interactive Reports, Business Dashboards      |
+| **Reporting**          | MIS Reporting, Recurring Reports, Excel Automation          |
+| **Databases**          | MySQL, PostgreSQL                                           |
+| **Business Analytics** | Customer Analytics, Sales Analytics, Product Analytics      |
+| **Tools**              | Git, GitHub, Jupyter, VS Code                               |
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Customer Analytics Dashboard
+
+**Power BI • SQL • Excel**
+
+* Built an interactive customer analytics dashboard
+* Analyzed customer behavior and business KPIs
+* Used SQL for data extraction and transformation
+* Created interactive Power BI visualizations
+* Designed insights for business decision-making
+
+---
+
+### 🛒 Amazon Product Analysis
+
+**SQL • Python • Power BI • Excel**
+
+* Analyzed **100K+ product records**
+* Performed data cleaning and exploratory analysis
+* Used SQL and Python to identify product-level patterns
+* Created visual reports and dashboards
+* Converted large datasets into actionable insights
+
+---
+
+### 👥 Stay Sure — Customer Churn Predictor
+
+**Python • Pandas • Scikit-Learn • Streamlit**
+
+* Performed exploratory data analysis on customer data
+* Identified factors associated with customer churn
+* Applied data preprocessing and feature engineering
+* Built a machine learning model for churn prediction
+* Developed an interactive Streamlit interface
+
+---
+
+### 📈 Stock Price Prediction & Technical Analytics
+
+**Python • Pandas • NumPy • Time Series**
+
+* Analyzed historical stock market data
+* Performed data preprocessing and exploratory analysis
+* Created technical indicators
+* Worked with time-series data
+* Visualized market trends and patterns
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern — Hex Softwares
+
+**Aug 2026 – Sep 2026**
+
+* Analyzed e-commerce order data using **Excel, SQL and Power BI**
+* Developed KPI dashboards for business reporting
+* Worked on OTT content analysis using **Python, Excel and Power BI**
+* Transformed raw datasets into structured analytical reports
+
+### Data Analyst Intern — Oasis Infobyte
+
+**Oct 2025 – Nov 2025**
+
+* Cleaned and analyzed **50K+ records**
+* Used Python and SQL for exploratory data analysis
+* Developed Power BI dashboards
+* Automated recurring reporting workflows
+* Reduced manual reporting effort by approximately **30%**
+
+---
+
+## 📊 Analytics Workflow
+
+```text
+          DATA SOURCES
+               │
+               ▼
+      ┌─────────────────┐
+      │ Data Collection │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Data Cleaning   │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ SQL / Python    │
+      │ Analysis        │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ EDA & Insights  │
+      └────────┬────────┘
+               │
+               ▼
+      ┌─────────────────┐
+      │ Power BI /      │
+      │ Tableau / Excel │
+      └────────┬────────┘
+               │
+               ▼
+        BUSINESS INSIGHTS
+```
+
+---
+
+## 🎯 Currently Focused On
+
+* Advanced SQL
+* Power BI & DAX
+* Advanced Excel
+* Business Intelligence
+* Data Visualization
+* Statistical Analysis
+* Data Cleaning & Transformation
+* Real-world Analytics Projects
+
+---
+
+## 🌐 Connect With Me
+
+**LinkedIn:**
+https://www.linkedin.com/in/kartikey-singh-523848329/
+
+**GitHub:**
+https://github.com/Kartikey-code1
+
+**Email:**
+[kartikeysinghpbh61@gmail.com](mailto:kartikeysinghpbh61@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Kartikey-code1\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-code1\&theme=dark\&hide_border=true)
+
+---
+
+### 💡 Data → Analysis → Insights → Decisions
+
+**Building practical analytics projects that solve real-world problems.**
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kartikey-code1 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kartikey-code1 &theme=dark&hide_border=false)<br/>
